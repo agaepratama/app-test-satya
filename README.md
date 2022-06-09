@@ -19,3 +19,5 @@ Satya Agae Pratama - FSW09
 8. Register (POST) = https://app-test-satya.herokuapp.com/v1/auth/register
 
 9. Who Am I (GET) = https://app-test-satya.herokuapp.com/v1/auth/whoami
+
+10. Swagger = https://app-test-satya.herokuapp.com/documentation/
